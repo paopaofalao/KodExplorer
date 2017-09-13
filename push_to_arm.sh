@@ -1,0 +1,1 @@
+rsync -av ./ root@arm.u.com:/KodExplorer/

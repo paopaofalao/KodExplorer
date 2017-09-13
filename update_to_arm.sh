@@ -1,0 +1,1 @@
+rsync -av ./static/ root@arm.u.com:/KodExplorer/static/
